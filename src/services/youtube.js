@@ -64,7 +64,7 @@ class YouTubeMusic {
     ID: 'yt_music',
     DESC: 'YouTube Music',
     PROPS: {
-      isQueryable: false,
+      isQueryable: true,
       isSearchable: true,
       isSourceable: true,
     },
